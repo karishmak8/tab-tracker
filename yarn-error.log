@@ -23,7 +23,30 @@ Trace:
       at processTicksAndRejections (internal/process/task_queues.js:95:5)
 
 npm manifest: 
-  No manifest
+  {
+    "name": "tab-tracker",
+    "version": "1.0.0",
+    "description": "installing package",
+    "main": "index.js",
+    "dependencies": {},
+    "devDependencies": {},
+    "scripts": {
+      "test": "npm run dev"
+    },
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/karishmak8/tab-tracker.git"
+    },
+    "keywords": [
+      "tab-trackre"
+    ],
+    "author": "karishma",
+    "license": "ISC",
+    "bugs": {
+      "url": "https://github.com/karishmak8/tab-tracker/issues"
+    },
+    "homepage": "https://github.com/karishmak8/tab-tracker#readme"
+  }
 
 yarn manifest: 
   No manifest
